@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "TPPOO",
+			"Path": "..\\Source\\TPPOO.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "TPPOOEditor",
+			"Path": "..\\Source\\TPPOOEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
