@@ -11,6 +11,7 @@
     <None Include="..\..\Source\TPPOOEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.vsconfig" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -32,6 +33,48 @@
     <Filter Include="Source\TPPOO">
       <UniqueIdentifier>{9D2A8A14-1E0E-39B9-9A5F-D97970616DA8}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TPPOO\Item.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\Item.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\ItemPoint.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\ItemPoint.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\ItemSpeed.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\ItemSpeed.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\KillPlayerComponent.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\KillPlayerComponent.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\MovementBase.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\MovementBase.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\RotatorBase.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\RotatorBase.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\TimerZone.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\TimerZone.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
     <None Include="..\..\Source\TPPOO\TPPOO.Build.cs">
       <Filter>Source\TPPOO</Filter>
     </None>

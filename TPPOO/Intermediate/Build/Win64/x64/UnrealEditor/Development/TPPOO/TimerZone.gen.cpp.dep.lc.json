@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\choui\\onedrive\\documents\\github\\tppoo\\tppoo\\intermediate\\build\\win64\\unrealeditor\\inc\\tppoo\\uht\\timerzone.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\choui\\onedrive\\documents\\github\\tppoo\\tppoo\\intermediate\\build\\win64\\x64\\tppooeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\choui\\onedrive\\documents\\github\\tppoo\\tppoo\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\tppoo\\definitions.tppoo.h",
+            "c:\\users\\choui\\onedrive\\documents\\github\\tppoo\\tppoo\\source\\tppoo\\timerzone.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbox.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\triggerbase.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\triggerbase.generated.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\triggerbox.generated.h",
+            "c:\\users\\choui\\onedrive\\documents\\github\\tppoo\\tppoo\\intermediate\\build\\win64\\unrealeditor\\inc\\tppoo\\uht\\timerzone.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

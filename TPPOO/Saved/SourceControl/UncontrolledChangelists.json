@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/Colors/Blue.uasset",
+				"C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/Colors/Pink.uasset",
+				"C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/Colors/Purple.uasset",
+				"C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/BluePrints/SpeedBoost.uasset",
+				"C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/NewMap.umap"
 			]
 		}
 	]

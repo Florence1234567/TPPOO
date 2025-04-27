@@ -13,7 +13,31 @@ class ATPPOOGameMode : public AGameModeBase
 
 public:
 	ATPPOOGameMode();
+	
+	virtual void RestartPlayer(AController* NewPlayer) override;
+
+	void StartTimer();
+
+	void EndTimer();
+
+	void ResetTimer();
+
+	void IncrementScore();
+
+	void ResetScore();
+
+	UPROPERTY(VisibleAnywhere, Category = "Timer") float time;
+
+	UPROPERTY(VisibleAnywhere, Category = "Timer") bool bTimerIsRunning;
+
+	UPROPERTY(VisibleAnywhere, Category = "Score") float score;
+
+	float bestTime;
+
+protected:
+
+	virtual void BeginPlay() override;
+	virtual void Tick(float DeltaTime) override;
+
+	UFUNCTION() virtual void PlayerDied(ACharacter* Character);
 };
-
-
-

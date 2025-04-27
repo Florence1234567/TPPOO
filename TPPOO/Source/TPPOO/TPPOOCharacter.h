@@ -47,7 +47,9 @@ class ATPPOOCharacter : public ACharacter
 public:
 	ATPPOOCharacter();
 	
+	void CallRestartPlayer();
 
+	void IncreaseSpeed();
 protected:
 
 	/** Called for movement input */

@@ -10,6 +10,7 @@
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
+#include "TPPOOGameMode.h"
 
 DEFINE_LOG_CATEGORY(LogTemplateCharacter);
 
@@ -63,12 +64,8 @@ void ATPPOOCharacter::NotifyControllerChanged()
 
 	// Add Input Mapping Context
 	if (APlayerController* PlayerController = Cast<APlayerController>(Controller))
-	{
 		if (UEnhancedInputLocalPlayerSubsystem* Subsystem = ULocalPlayer::GetSubsystem<UEnhancedInputLocalPlayerSubsystem>(PlayerController->GetLocalPlayer()))
-		{
 			Subsystem->AddMappingContext(DefaultMappingContext, 0);
-		}
-	}
 }
 
 void ATPPOOCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
@@ -87,9 +84,7 @@ void ATPPOOCharacter::SetupPlayerInputComponent(UInputComponent* PlayerInputComp
 		EnhancedInputComponent->BindAction(LookAction, ETriggerEvent::Triggered, this, &ATPPOOCharacter::Look);
 	}
 	else
-	{
 		UE_LOG(LogTemplateCharacter, Error, TEXT("'%s' Failed to find an Enhanced Input component! This template is built to use the Enhanced Input system. If you intend to use the legacy system, then you will need to update this C++ file."), *GetNameSafe(this));
-	}
 }
 
 void ATPPOOCharacter::Move(const FInputActionValue& Value)
@@ -126,4 +121,20 @@ void ATPPOOCharacter::Look(const FInputActionValue& Value)
 		AddControllerYawInput(LookAxisVector.X);
 		AddControllerPitchInput(LookAxisVector.Y);
 	}
+}
+
+void ATPPOOCharacter::CallRestartPlayer()
+{
+	AController* ControllerRef = GetController();
+
+	Destroy();
+
+	if (UWorld* World = GetWorld())
+		if (ATPPOOGameMode* GameMode = Cast<ATPPOOGameMode>(World->GetAuthGameMode()))
+			GameMode->RestartPlayer(ControllerRef);
+}
+
+void ATPPOOCharacter::IncreaseSpeed()
+{
+	GetCharacterMovement()->MaxWalkSpeed *= 2;
 }
