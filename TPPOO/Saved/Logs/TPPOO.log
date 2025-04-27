@@ -1210,3 +1210,551 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2025.04.27-03.32.43:567][  0]LogConfig: Branch 'GameplayTagsList' had been unloaded. Reloading on-demand took 10.01ms
 [2025.04.27-03.32.44:092][  0]LogConfig: Branch 'TemplateDefs' had been unloaded. Reloading on-demand took 10.60ms
 [2025.04.27-03.32.44:117][  0]LogConfig: Branch 'TemplateCategories' had been unloaded. Reloading on-demand took 10.71ms
+[2025.04.27-03.32.46:532][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.04.27-03.32.46:533][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.04.27-03.32.46:559][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.04.27-03.32.46:572][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.04.27-03.32.46:579][  0]LogLiveCoding: Display: First instance in process group "UE_TPPOO_0x5c5e49ae", spawning console
+[2025.04.27-03.32.46:674][  0]LogLiveCoding: Display: Waiting for server
+[2025.04.27-03.32.46:674][  0]LogSlate: Border
+[2025.04.27-03.32.46:674][  0]LogSlate: BreadcrumbButton
+[2025.04.27-03.32.46:674][  0]LogSlate: Brushes.Title
+[2025.04.27-03.32.46:674][  0]LogSlate: Default
+[2025.04.27-03.32.46:674][  0]LogSlate: Icons.Save
+[2025.04.27-03.32.46:674][  0]LogSlate: Icons.Toolbar.Settings
+[2025.04.27-03.32.46:674][  0]LogSlate: ListView
+[2025.04.27-03.32.46:674][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.04.27-03.32.46:674][  0]LogSlate: SoftwareCursor_Grab
+[2025.04.27-03.32.46:674][  0]LogSlate: TableView.DarkRow
+[2025.04.27-03.32.46:674][  0]LogSlate: TableView.Row
+[2025.04.27-03.32.46:674][  0]LogSlate: TreeView
+[2025.04.27-03.32.47:421][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.04.27-03.32.47:430][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 8.744 ms
+[2025.04.27-03.32.47:508][  0]LogConfig: Branch 'Mass' had been unloaded. Reloading on-demand took 14.08ms
+[2025.04.27-03.32.47:608][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.04.27-03.32.47:608][  0]LogInit: XR: MultiViewport is Disabled
+[2025.04.27-03.32.47:608][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.04.27-03.32.48:119][  0]LogConfig: Branch 'TranslationPickerSettings' had been unloaded. Reloading on-demand took 13.00ms
+[2025.04.27-03.32.49:969][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.04.27-03.32.53:049][  0]LogMetaSound: Display: MetaSound Page Target Initialized to 'Default'
+[2025.04.27-03.32.53:050][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.04.27-03.32.53:146][  0]LogMetaSound: MetaSound Engine Initialized
+[2025.04.27-03.32.53:796][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: E8061F08B8834AB78000000000007A00 | Instance: F74AB0764E1509741D8483B504951F34 (FLORENCE-31840).
+[2025.04.27-03.32.54:105][  0]LogUdpMessaging: Display: Work queue size set to 1024.
+[2025.04.27-03.32.54:106][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.04.27-03.32.54:113][  0]LogUdpMessaging: Display: Unicast socket bound to '0.0.0.0:62748'.
+[2025.04.27-03.32.54:141][  0]LogUdpMessaging: Display: Added local interface '192.168.2.63' to multicast group '230.0.0.1:6666'
+[2025.04.27-03.32.54:194][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.04.27-03.32.56:215][  0]LogNNERuntimeORT: Available graphics and compute adapters:
+[2025.04.27-03.32.56:215][  0]LogNNERuntimeORT: 0: Intel(R) Iris(R) Xe Graphics (Compute, Graphics)
+[2025.04.27-03.32.56:216][  0]LogNNERuntimeORT: 1: NVIDIA GeForce RTX 3050 Ti Laptop GPU (Compute, Graphics)
+[2025.04.27-03.32.56:216][  0]LogNNERuntimeORT: 2: Microsoft Basic Render Driver (Compute, Graphics)
+[2025.04.27-03.32.56:216][  0]LogNNERuntimeORT: No NPU adapter found!
+[2025.04.27-03.32.59:720][  0]LogConfig: Branch 'ObjectMixerSerializedData' had been unloaded. Reloading on-demand took 15.35ms
+[2025.04.27-03.32.59:846][  0]LogConfig: Branch 'Crypto' had been unloaded. Reloading on-demand took 15.90ms
+[2025.04.27-03.33.01:054][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.04.27-03.33.01:054][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.04.27-03.33.01:139][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.04.27-03.33.01:178][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.27-03.33.01:178][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.27-03.33.01:430][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/glf/resources/plugInfo.json'
+[2025.04.27-03.33.01:440][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hd/resources/plugInfo.json'
+[2025.04.27-03.33.01:461][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ndr/resources/plugInfo.json'
+[2025.04.27-03.33.01:477][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdSt/resources/plugInfo.json'
+[2025.04.27-03.33.01:487][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdGp/resources/plugInfo.json'
+[2025.04.27-03.33.01:495][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdf/resources/plugInfo.json'
+[2025.04.27-03.33.01:504][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdHydra/resources/plugInfo.json'
+[2025.04.27-03.33.01:514][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdStorm/resources/plugInfo.json'
+[2025.04.27-03.33.01:525][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImagingGL/resources/plugInfo.json'
+[2025.04.27-03.33.01:535][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/sdrGlslfx/resources/plugInfo.json'
+[2025.04.27-03.33.01:544][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hdx/resources/plugInfo.json'
+[2025.04.27-03.33.01:558][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdLux/resources/plugInfo.json'
+[2025.04.27-03.33.01:574][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdGeom/resources/plugInfo.json'
+[2025.04.27-03.33.01:583][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hio/resources/plugInfo.json'
+[2025.04.27-03.33.01:592][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMedia/resources/plugInfo.json'
+[2025.04.27-03.33.01:603][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRender/resources/plugInfo.json'
+[2025.04.27-03.33.01:613][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdAbc/resources/plugInfo.json'
+[2025.04.27-03.33.01:625][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdMtlx/resources/plugInfo.json'
+[2025.04.27-03.33.01:638][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShade/resources/plugInfo.json'
+[2025.04.27-03.33.01:649][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVol/resources/plugInfo.json'
+[2025.04.27-03.33.01:659][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkelImaging/resources/plugInfo.json'
+[2025.04.27-03.33.01:674][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdImaging/resources/plugInfo.json'
+[2025.04.27-03.33.01:684][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProc/resources/plugInfo.json'
+[2025.04.27-03.33.01:693][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdShaders/resources/plugInfo.json'
+[2025.04.27-03.33.01:716][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdVolImaging/resources/plugInfo.json'
+[2025.04.27-03.33.01:726][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRi/resources/plugInfo.json'
+[2025.04.27-03.33.01:736][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdSkel/resources/plugInfo.json'
+[2025.04.27-03.33.01:746][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdUI/resources/plugInfo.json'
+[2025.04.27-03.33.01:756][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/ar/resources/plugInfo.json'
+[2025.04.27-03.33.01:764][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/hgiGL/resources/plugInfo.json'
+[2025.04.27-03.33.01:776][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/plugInfo.json'
+[2025.04.27-03.33.01:786][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdProcImaging/resources/plugInfo.json'
+[2025.04.27-03.33.01:800][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdPhysics/resources/plugInfo.json'
+[2025.04.27-03.33.01:809][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usdRiPxrImaging/resources/plugInfo.json'
+[2025.04.27-03.33.01:818][  0]LogUsd: Updated LibraryPaths for USD plugInfo.json file 'C:/Program Files/Epic Games/UE_5.5/Engine/Binaries/ThirdParty/USD/UsdResources/Win64/plugins/usd/resources/codegenTemplates/plugInfo.json'
+[2025.04.27-03.33.01:999][  0]LogConfig: Applying CVar settings from Section [/Script/NNEDenoiser.NNEDenoiserSettings] File [Engine]
+[2025.04.27-03.33.02:422][  0]SourceControl: Revision control is disabled
+[2025.04.27-03.33.02:504][  0]SourceControl: Revision control is disabled
+[2025.04.27-03.33.02:740][  0]LogCollectionManager: Loaded 0 collections in 0.006314 seconds
+[2025.04.27-03.33.02:750][  0]LogFileCache: Scanning file cache for directory 'C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Saved/Collections/' took 0.01s
+[2025.04.27-03.33.02:762][  0]LogFileCache: Scanning file cache for directory 'C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/Developers/choui/Collections/' took 0.01s
+[2025.04.27-03.33.02:774][  0]LogFileCache: Scanning file cache for directory 'C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/Collections/' took 0.01s
+[2025.04.27-03.33.03:112][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.04.27-03.33.03:112][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.04.27-03.33.03:136][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.04.27-03.33.03:136][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.04.27-03.33.03:139][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.04.27-03.33.03:139][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.04.27-03.33.03:397][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png' error.
+[2025.04.27-03.33.03:397][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Interchange/Editor/Content/Old/Tiles/Outer/alertSolid.png
+[2025.04.27-03.33.03:464][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.17.0-39599718 booting at 2025-04-27T03:33:03.464Z using C
+[2025.04.27-03.33.03:466][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.26100.3775.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=TPPOO, ProductVersion=++UE5+Release-5.5-CL-40574608, IsServer=false, Flags=DisableOverlay]
+[2025.04.27-03.33.03:467][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.04.27-03.33.03:468][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2025.04.27-03.33.03:496][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2025.04.27-03.33.03:497][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2025.04.27-03.33.03:497][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2025.04.27-03.33.03:497][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.000489
+[2025.04.27-03.33.03:497][  0]LogFab: Display: Logging in using persist
+[2025.04.27-03.33.03:630][  0]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.04.27-03.33.03:765][  0]LogUObjectArray: 45574 objects as part of root set at end of initial load.
+[2025.04.27-03.33.03:765][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.04.27-03.33.03:816][  0]LogStreaming: Display: AsyncLoading2 - NotifyRegistrationComplete: Registered 36308 public script object entries (984.54 KB)
+[2025.04.27-03.33.03:817][  0]LogStreaming: Display: AsyncLoading2 - Thread Started: false, IsInitialLoad: false
+[2025.04.27-03.33.04:121][  0]LogClass: Display: AttemptToFindUninitializedScriptStructMembers took more than 1ms to process ScriptStruct /Script/MetasoundFrontend.MetaSoundFrontendDocumentBuilder. Time(ms): 1.1
+[2025.04.27-03.33.04:280][  0]LogEngine: Initializing Engine...
+[2025.04.27-03.33.04:295][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2025.04.27-03.33.04:297][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2025.04.27-03.33.04:869][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.11.dll
+[2025.04.27-03.33.05:003][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Untitled
+[2025.04.27-03.33.05:047][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.04.27-03.33.05:047][  0]LogInit: Texture streaming: Enabled
+[2025.04.27-03.33.05:086][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data. AppVersion = 5.5.4-40574608+++UE5+Release-5.5
+[2025.04.27-03.33.05:121][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.04.27-03.33.05:178][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.04.27-03.33.05:179][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.04.27-03.33.05:180][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.04.27-03.33.05:180][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.04.27-03.33.05:180][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.27-03.33.05:180][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.27-03.33.05:180][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.27-03.33.05:180][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.27-03.33.05:180][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.04.27-03.33.05:180][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.27-03.33.05:180][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.04.27-03.33.05:180][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.27-03.33.05:180][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.27-03.33.05:180][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.27-03.33.05:180][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.27-03.33.05:203][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.27-03.33.06:600][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.04.27-03.33.06:600][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.27-03.33.06:603][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.27-03.33.06:603][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.27-03.33.06:605][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.04.27-03.33.06:605][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.27-03.33.06:608][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.27-03.33.06:608][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.04.27-03.33.06:608][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.04.27-03.33.06:609][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.04.27-03.33.06:609][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.04.27-03.33.06:626][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.04.27-03.33.06:660][  0]LogInit: Undo buffer set to 256 MB
+[2025.04.27-03.33.06:660][  0]LogInit: Transaction tracking system initialized
+[2025.04.27-03.33.06:914][  0]LogConfig: Branch 'LocalizationServiceSettings' had been unloaded. Reloading on-demand took 3.74ms
+[2025.04.27-03.33.06:931][  0]LocalizationService: Localization service is disabled
+[2025.04.27-03.33.06:974][  0]LogTimingProfiler: Initialize
+[2025.04.27-03.33.06:975][  0]LogTimingProfiler: OnSessionChanged
+[2025.04.27-03.33.06:975][  0]LoadingProfiler: Initialize
+[2025.04.27-03.33.06:975][  0]LoadingProfiler: OnSessionChanged
+[2025.04.27-03.33.06:975][  0]LogNetworkingProfiler: Initialize
+[2025.04.27-03.33.06:975][  0]LogNetworkingProfiler: OnSessionChanged
+[2025.04.27-03.33.06:975][  0]LogMemoryProfiler: Initialize
+[2025.04.27-03.33.06:975][  0]LogMemoryProfiler: OnSessionChanged
+[2025.04.27-03.33.07:716][  0]LogFileCache: Scanning file cache for directory 'C:/Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/' took 0.03s
+[2025.04.27-03.33.07:777][  0]LogPython: Using Python 3.11.8
+[2025.04.27-03.33.09:632][  0]LogPython: Display: No enabled plugins with python dependencies found, skipping
+[2025.04.27-03.33.09:658][  0]LogRenderer: Requested compilation of Path Tracing RTPSOs (1 permutations).
+[2025.04.27-03.33.09:742][  0]LogStreaming: Warning: Failed to read file 'Common/Selector.png' error.
+[2025.04.27-03.33.09:742][  0]LogSlate: Could not find file for Slate resource: Common/Selector.png
+[2025.04.27-03.33.10:075][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.04.27-03.33.10:102][  0]LogEditorDataStorage: Initializing
+[2025.04.27-03.33.10:104][  0]LogEditorDataStorage: Initialized
+[2025.04.27-03.33.10:111][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.04.27-03.33.10:149][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.04.27-03.33.10:171][  0]SourceControl: Revision control is disabled
+[2025.04.27-03.33.10:171][  0]LogUnrealEdMisc: Loading editor; pre map load, took 77.817
+[2025.04.27-03.33.10:204][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack)
+[2025.04.27-03.33.10:216][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.04.27-03.33.10:236][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2025.04.27-03.33.10:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2025.04.27-03.33.10:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2025.04.27-03.33.10:321][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2025.04.27-03.33.10:340][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2025.04.27-03.33.10:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2025.04.27-03.33.10:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2025.04.27-03.33.10:402][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2025.04.27-03.33.10:419][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2025.04.27-03.33.10:435][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2025.04.27-03.33.10:453][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2025.04.27-03.33.10:537][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2025.04.27-03.33.10:558][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Collapse01.uasset"
+[2025.04.27-03.33.10:581][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Collapse02.uasset"
+[2025.04.27-03.33.10:599][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2025.04.27-03.33.10:617][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Explosion01.uasset"
+[2025.04.27-03.33.10:635][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Explosion02.uasset"
+[2025.04.27-03.33.10:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2025.04.27-03.33.10:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Fire01.uasset"
+[2025.04.27-03.33.10:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2025.04.27-03.33.10:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2025.04.27-03.33.10:728][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2025.04.27-03.33.10:745][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Light01.uasset"
+[2025.04.27-03.33.10:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2025.04.27-03.33.10:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Light02.uasset"
+[2025.04.27-03.33.10:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2025.04.27-03.33.10:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Smoke01.uasset"
+[2025.04.27-03.33.10:819][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2025.04.27-03.33.10:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2025.04.27-03.33.10:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2025.04.27-03.33.10:872][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2025.04.27-03.33.10:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2025.04.27-03.33.10:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2025.04.27-03.33.10:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2025.04.27-03.33.10:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Steam01.uasset"
+[2025.04.27-03.33.10:935][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2025.04.27-03.33.10:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2025.04.27-03.33.10:954][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2025.04.27-03.33.10:963][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2025.04.27-03.33.10:974][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2025.04.27-03.33.10:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2025.04.27-03.33.10:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2025.04.27-03.33.11:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2025.04.27-03.33.11:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Maps/Minimal_Default.umap"
+[2025.04.27-03.33.11:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2025.04.27-03.33.11:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2025.04.27-03.33.11:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2025.04.27-03.33.11:060][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Maps/StarterMap.umap"
+[2025.04.27-03.33.11:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2025.04.27-03.33.11:102][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2025.04.27-03.33.11:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2025.04.27-03.33.11:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/P_Explosion.uasset"
+[2025.04.27-03.33.11:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/P_Fire.uasset"
+[2025.04.27-03.33.11:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/P_Smoke.uasset"
+[2025.04.27-03.33.11:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/P_Sparks.uasset"
+[2025.04.27-03.33.11:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2025.04.27-03.33.11:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2025.04.27-03.33.11:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2025.04.27-03.33.11:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2025.04.27-03.33.11:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2025.04.27-03.33.11:224][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2025.04.27-03.33.11:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2025.04.27-03.33.11:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2025.04.27-03.33.11:269][  0]LogAssetRegistry: Display: Asset registry cache written as 37.9 MiB to ../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Intermediate/CachedAssetRegistry_*.bin
+[2025.04.27-03.33.11:479][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2025.04.27-03.33.11:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2025.04.27-03.33.11:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2025.04.27-03.33.11:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2025.04.27-03.33.11:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2025.04.27-03.33.11:565][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/MaterialSphere.uasset"
+[2025.04.27-03.33.11:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2025.04.27-03.33.11:586][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2025.04.27-03.33.11:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Bush.uasset"
+[2025.04.27-03.33.11:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2025.04.27-03.33.11:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2025.04.27-03.33.11:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Chair.uasset"
+[2025.04.27-03.33.11:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2025.04.27-03.33.11:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2025.04.27-03.33.11:662][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2025.04.27-03.33.11:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2025.04.27-03.33.11:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Couch.uasset"
+[2025.04.27-03.33.11:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Door.uasset"
+[2025.04.27-03.33.11:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2025.04.27-03.33.11:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2025.04.27-03.33.11:776][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2025.04.27-03.33.11:797][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2025.04.27-03.33.11:812][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2025.04.27-03.33.11:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2025.04.27-03.33.11:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Rock.uasset"
+[2025.04.27-03.33.11:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Shelf.uasset"
+[2025.04.27-03.33.11:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Stairs.uasset"
+[2025.04.27-03.33.11:898][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_Statue.uasset"
+[2025.04.27-03.33.11:917][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_TableRound.uasset"
+[2025.04.27-03.33.11:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2025.04.27-03.33.11:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2025.04.27-03.33.11:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2025.04.27-03.33.11:968][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2025.04.27-03.33.11:978][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2025.04.27-03.33.11:988][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2025.04.27-03.33.11:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2025.04.27-03.33.12:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2025.04.27-03.33.12:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2025.04.27-03.33.12:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2025.04.27-03.33.12:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2025.04.27-03.33.12:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2025.04.27-03.33.12:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2025.04.27-03.33.12:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2025.04.27-03.33.12:093][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2025.04.27-03.33.12:109][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2025.04.27-03.33.12:122][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2025.04.27-03.33.12:136][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2025.04.27-03.33.12:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Glass.uasset"
+[2025.04.27-03.33.12:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2025.04.27-03.33.12:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2025.04.27-03.33.12:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2025.04.27-03.33.12:196][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2025.04.27-03.33.12:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2025.04.27-03.33.12:222][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2025.04.27-03.33.12:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2025.04.27-03.33.12:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2025.04.27-03.33.12:258][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2025.04.27-03.33.12:269][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2025.04.27-03.33.12:280][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2025.04.27-03.33.12:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2025.04.27-03.33.12:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2025.04.27-03.33.12:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2025.04.27-03.33.12:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2025.04.27-03.33.12:339][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2025.04.27-03.33.12:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2025.04.27-03.33.12:367][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2025.04.27-03.33.12:378][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2025.04.27-03.33.12:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2025.04.27-03.33.12:401][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2025.04.27-03.33.12:417][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2025.04.27-03.33.12:428][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2025.04.27-03.33.12:443][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2025.04.27-03.33.12:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2025.04.27-03.33.12:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2025.04.27-03.33.12:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2025.04.27-03.33.12:524][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2025.04.27-03.33.12:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2025.04.27-03.33.12:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2025.04.27-03.33.12:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2025.04.27-03.33.12:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2025.04.27-03.33.12:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2025.04.27-03.33.12:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2025.04.27-03.33.13:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2025.04.27-03.33.13:124][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2025.04.27-03.33.13:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2025.04.27-03.33.13:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2025.04.27-03.33.13:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2025.04.27-03.33.13:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2025.04.27-03.33.14:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2025.04.27-03.33.14:368][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2025.04.27-03.33.14:491][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2025.04.27-03.33.14:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2025.04.27-03.33.14:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2025.04.27-03.33.14:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2025.04.27-03.33.14:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2025.04.27-03.33.14:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2025.04.27-03.33.14:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2025.04.27-03.33.14:762][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2025.04.27-03.33.14:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2025.04.27-03.33.14:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2025.04.27-03.33.14:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2025.04.27-03.33.14:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2025.04.27-03.33.14:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2025.04.27-03.33.14:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2025.04.27-03.33.14:936][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2025.04.27-03.33.14:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2025.04.27-03.33.14:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2025.04.27-03.33.15:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2025.04.27-03.33.15:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2025.04.27-03.33.15:078][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2025.04.27-03.33.15:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2025.04.27-03.33.15:104][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2025.04.27-03.33.15:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Door_M.uasset"
+[2025.04.27-03.33.15:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Door_N.uasset"
+[2025.04.27-03.33.15:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2025.04.27-03.33.15:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2025.04.27-03.33.15:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2025.04.27-03.33.15:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2025.04.27-03.33.15:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2025.04.27-03.33.15:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2025.04.27-03.33.15:245][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2025.04.27-03.33.15:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2025.04.27-03.33.15:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2025.04.27-03.33.15:330][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2025.04.27-03.33.15:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2025.04.27-03.33.15:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2025.04.27-03.33.15:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2025.04.27-03.33.15:412][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2025.04.27-03.33.15:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2025.04.27-03.33.15:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2025.04.27-03.33.15:503][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2025.04.27-03.33.15:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2025.04.27-03.33.15:587][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2025.04.27-03.33.15:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2025.04.27-03.33.15:689][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2025.04.27-03.33.15:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2025.04.27-03.33.16:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2025.04.27-03.33.16:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2025.04.27-03.33.16:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2025.04.27-03.33.16:173][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2025.04.27-03.33.16:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2025.04.27-03.33.16:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2025.04.27-03.33.16:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2025.04.27-03.33.16:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2025.04.27-03.33.16:313][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2025.04.27-03.33.16:335][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2025.04.27-03.33.16:360][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2025.04.27-03.33.16:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2025.04.27-03.33.16:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2025.04.27-03.33.16:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2025.04.27-03.33.16:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2025.04.27-03.33.16:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2025.04.27-03.33.16:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2025.04.27-03.33.16:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2025.04.27-03.33.16:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2025.04.27-03.33.16:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2025.04.27-03.33.16:506][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2025.04.27-03.33.16:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2025.04.27-03.33.16:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2025.04.27-03.33.16:544][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2025.04.27-03.33.16:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2025.04.27-03.33.16:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2025.04.27-03.33.16:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2025.04.27-03.33.16:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2025.04.27-03.33.16:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2025.04.27-03.33.16:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Water_M.uasset"
+[2025.04.27-03.33.16:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Water_N.uasset"
+[2025.04.27-03.33.16:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2025.04.27-03.33.16:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2025.04.27-03.33.16:788][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2025.04.27-03.33.16:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2025.04.27-03.33.16:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2025.04.27-03.33.16:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2025.04.27-03.33.16:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2025.04.27-03.33.16:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2025.04.27-03.33.16:948][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2025.04.27-03.33.16:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2025.04.27-03.33.16:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2025.04.27-03.33.16:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2025.04.27-03.33.16:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2025.04.27-03.33.17:012][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2025.04.27-03.33.17:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2025.04.27-03.33.17:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2025.04.27-03.33.17:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2025.04.27-03.33.17:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2025.04.27-03.33.17:079][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2025.04.27-03.33.17:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2025.04.27-03.33.17:145][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2025.04.27-03.33.17:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2025.04.27-03.33.17:167][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2025.04.27-03.33.17:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2025.04.27-03.33.17:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2025.04.27-03.33.17:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2025.04.27-03.33.17:214][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2025.04.27-03.33.17:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2025.04.27-03.33.17:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2025.04.27-03.33.17:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2025.04.27-03.33.17:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2025.04.27-03.33.17:300][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2025.04.27-03.33.17:312][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2025.04.27-03.33.17:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2025.04.27-03.33.17:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2025.04.27-03.33.17:350][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2025.04.27-03.33.17:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2025.04.27-03.33.17:441][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.04.27-03.33.17:447][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Architecture/Floor_400x400] ([1] browsable assets)...
+[2025.04.27-03.33.17:451][  0]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.04.27-03.33.17:482][  0]LogNNEDenoiser: ApplySettings: bDenoiserEnabled 1
+[2025.04.27-03.33.17:491][  0]LogNNEDenoiser: Loaded input mapping from NNEDIM_ColorAlbedoNormal_Alpha
+[2025.04.27-03.33.17:492][  0]LogNNEDenoiser: Loaded output mapping from NNEDOM_Output_Alpha
+[2025.04.27-03.33.17:494][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.04.27-03.33.17:731][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.04.27-03.33.17:731][  0]LogNNEDenoiser: Create denoiser from asset /NNEDenoiser/NNED_Oidn2-3_Balanced_Alpha.NNED_Oidn2-3_Balanced_Alpha...
+[2025.04.27-03.33.17:734][  0]LogNNEDenoiser: Loaded input mapping from NNEDTIM_ColorAlbedoNormal_Alpha
+[2025.04.27-03.33.17:735][  0]LogNNEDenoiser: Loaded output mapping from NNEDTOM_Output_Alpha
+[2025.04.27-03.33.17:735][  0]LogNNEDenoiser: Try create model instance with runtime NNERuntimeORTDml on RDG...
+[2025.04.27-03.33.17:845][  0]LogNNEDenoiser: Display: Created model instance with runtime NNERuntimeORTDml on RDG
+[2025.04.27-03.33.17:845][  0]LogNNEDenoiser: Create temporal denoiser from asset /NNEDenoiser/NNEDT_Oidn2-3_Balanced_Alpha.NNEDT_Oidn2-3_Balanced_Alpha...
+[2025.04.27-03.33.18:165][  0]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400]
+[2025.04.27-03.33.18:165][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Architecture/Floor_400x400]
+[2025.04.27-03.33.18:317][  0]LogSavePackage: Moving output files for package: /Game/StarterContent/Architecture/Floor_400x400
+[2025.04.27-03.33.18:320][  0]LogSavePackage: Moving '../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Saved/Floor_400x400EB9D36384571F5316B76B8823E1C161D.tmp' to '../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2025.04.27-03.33.18:335][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 892.971 ms
+[2025.04.27-03.33.18:335][  0]LogFeaturePack: Inserted 1 feature packs
+[2025.04.27-03.33.18:341][  0]Cmd: MAP LOAD FILE="../../../../../../Users/choui/OneDrive/Documents/GitHub/TPPOO/TPPOO/Content/ThirdPerson/Maps/ThirdPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.27-03.33.18:345][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.04.27-03.33.18:345][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-03.33.18:376][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.27-03.33.18:379][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2025.04.27-03.33.18:396][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonMap'.
+[2025.04.27-03.33.18:396][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world ThirdPersonMap
+[2025.04.27-03.33.18:398][  0]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.04.27-03.33.18:398][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.04.27-03.33.18:398][  0]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.04.27-03.33.18:492][  0]LogWorldPartition: Display: WorldPartition initialize took 95.091 ms
+[2025.04.27-03.33.18:504][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.27-03.33.18:549][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.04.27-03.33.18:551][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.27-03.33.18:552][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.985ms to complete.
+[2025.04.27-03.33.18:572][  0]LogUnrealEdMisc: Total Editor Startup Time, took 86.217
+[2025.04.27-03.33.18:933][  0]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.04.27-03.33.19:534][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-03.33.19:787][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-03.33.20:015][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-03.33.20:247][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.27-03.33.20:505][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:507][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:508][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:510][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:511][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:516][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:516][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:519][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:521][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:522][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:522][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:526][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:526][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:530][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:530][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:533][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:534][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:537][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.04.27-03.33.20:538][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.27-03.33.20:541][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.5/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.04.27-03.33.21:509][  0]LogSlate: Took 0.004391 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.27-03.33.22:488][  0]LogSlate: Took 0.001251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.27-03.33.22:516][  0]LogSlate: Took 0.007728 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.27-03.33.22:524][  0]LogSlate: Took 0.001096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.27-03.33.22:763][  0]LogSlate: Took 0.023986 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.27-03.33.23:151][  0]LogStall: Startup...
+[2025.04.27-03.33.23:156][  0]LogStall: Startup complete.
+[2025.04.27-03.33.23:340][  0]LogLoad: (Engine Initialization) Total time: 90.98 seconds
+[2025.04.27-03.33.24:812][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2025.04.27-03.33.24:812][  0]LogContentValidation: Enabled validators:
+[2025.04.27-03.33.24:813][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.04.27-03.33.24:813][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.04.27-03.33.24:813][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.04.27-03.33.24:813][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.04.27-03.33.24:813][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.04.27-03.33.24:813][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.04.27-03.33.24:822][  0]AssetCheck: /Game/StarterContent/Architecture/Floor_400x400 Validating asset
+[2025.04.27-03.33.24:946][  0]LogContentStreaming: Texture pool size now 400 MB
+[2025.04.27-03.33.24:946][  0]LogCsvProfiler: Display: Metadata set : streamingpoolsizemb="400"
+[2025.04.27-03.33.25:060][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.27-03.33.25:065][  0]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.04.27-03.33.25:065][  0]LogFab: Display: Logging in using exchange code
+[2025.04.27-03.33.25:065][  0]LogFab: Display: Reading exchange code from commandline
+[2025.04.27-03.33.25:065][  0]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.04.27-03.33.25:066][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... started...
+[2025.04.27-03.33.25:215][  0]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.04.27-03.33.25:229][  0]LogPython: Display: Running start-up script C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py... took 162.480 ms
+[2025.04.27-03.33.25:461][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: TPPOOEditor Win64 Development
+[2025.04.27-03.33.25:750][  1]LogAssetRegistry: AssetRegistryGather time 45.9989s: AssetDataDiscovery 0.2872s, AssetDataGather 45.3473s, StoreResults 0.3644s. Wall time 75.4970s.
+	NumCachedDirectories 0. NumUncachedDirectories 1622. NumCachedFiles 0. NumUncachedFiles 7963.
+	BackgroundTickInterruptions 0.
+[2025.04.27-03.33.25:814][  1]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.04.27-03.33.25:814][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000000 seconds (updated 0 objects)
+[2025.04.27-03.33.25:848][  1]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.04.27-03.33.26:047][  2]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 22.351664
+[2025.04.27-03.33.26:049][  2]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.04.27-03.33.26:051][  2]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 22.549686
+[2025.04.27-03.33.27:061][  6]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.04.27-03.33.27:739][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 23.900658
+[2025.04.27-03.33.27:744][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -635866338
+[2025.04.27-03.33.27:744][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 23.900658, Update Interval: 310.345764
+[2025.04.27-03.33.28:240][ 10]LogSourceControl: Uncontrolled asset enumeration finished in 2.426821 seconds (Found 7671 uncontrolled assets)
