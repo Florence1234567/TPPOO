@@ -137,4 +137,17 @@ void ATPPOOCharacter::CallRestartPlayer()
 void ATPPOOCharacter::IncreaseSpeed()
 {
 	GetCharacterMovement()->MaxWalkSpeed *= 2;
+
+	GetWorldTimerManager().SetTimer(
+		SpeedResetTimerHandle,      
+		this,                       
+		&ATPPOOCharacter::ResetSpeed,
+		5.0f,                       
+		false                       
+	);
+}
+
+void ATPPOOCharacter::ResetSpeed()
+{
+	GetCharacterMovement()->MaxWalkSpeed = 500.f;
 }

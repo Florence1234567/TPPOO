@@ -7,8 +7,11 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\TPPOOEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\CannonBallComponent.gen.cpp.obj"
+"C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\CannonComponent.gen.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\Item.gen.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\ItemPoint.gen.cpp.obj"
+"C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\ItemSpeed.gen.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\KillPlayerComponent.gen.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\MovementBase.gen.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\RotatorBase.gen.cpp.obj"
@@ -16,8 +19,11 @@
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\TPPOO.init.gen.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\TPPOOCharacter.gen.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\TPPOOGameMode.gen.cpp.obj"
+"C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\CannonBallComponent.cpp.obj"
+"C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\CannonComponent.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\Item.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\ItemPoint.cpp.obj"
+"C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\ItemSpeed.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\KillPlayerComponent.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\MovementBase.cpp.obj"
 "C:\Users\choui\OneDrive\Documents\GitHub\TPPOO\TPPOO\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TPPOO\RotatorBase.cpp.obj"

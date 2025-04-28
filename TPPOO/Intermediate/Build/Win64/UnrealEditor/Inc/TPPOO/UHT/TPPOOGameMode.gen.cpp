@@ -86,6 +86,10 @@ struct Z_Construct_UClass_ATPPOOGameMode_Statics
 		{ "Category", "Timer" },
 		{ "ModuleRelativePath", "TPPOOGameMode.h" },
 	};
+	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bestTime_MetaData[] = {
+		{ "Category", "Timer" },
+		{ "ModuleRelativePath", "TPPOOGameMode.h" },
+	};
 	static constexpr UECodeGen_Private::FMetaDataPairParam NewProp_bTimerIsRunning_MetaData[] = {
 		{ "Category", "Timer" },
 		{ "ModuleRelativePath", "TPPOOGameMode.h" },
@@ -96,6 +100,7 @@ struct Z_Construct_UClass_ATPPOOGameMode_Statics
 	};
 #endif // WITH_METADATA
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_time;
+	static const UECodeGen_Private::FFloatPropertyParams NewProp_bestTime;
 	static void NewProp_bTimerIsRunning_SetBit(void* Obj);
 	static const UECodeGen_Private::FBoolPropertyParams NewProp_bTimerIsRunning;
 	static const UECodeGen_Private::FFloatPropertyParams NewProp_score;
@@ -111,6 +116,7 @@ struct Z_Construct_UClass_ATPPOOGameMode_Statics
 	static const UECodeGen_Private::FClassParams ClassParams;
 };
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_time = { "time", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATPPOOGameMode, time), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_time_MetaData), NewProp_time_MetaData) };
+const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_bestTime = { "bestTime", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATPPOOGameMode, bestTime), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_bestTime_MetaData), NewProp_bestTime_MetaData) };
 void Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_bTimerIsRunning_SetBit(void* Obj)
 {
 	((ATPPOOGameMode*)Obj)->bTimerIsRunning = 1;
@@ -119,6 +125,7 @@ const UECodeGen_Private::FBoolPropertyParams Z_Construct_UClass_ATPPOOGameMode_S
 const UECodeGen_Private::FFloatPropertyParams Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_score = { "score", nullptr, (EPropertyFlags)0x0010000000020001, UECodeGen_Private::EPropertyGenFlags::Float, RF_Public|RF_Transient|RF_MarkAsNative, nullptr, nullptr, 1, STRUCT_OFFSET(ATPPOOGameMode, score), METADATA_PARAMS(UE_ARRAY_COUNT(NewProp_score_MetaData), NewProp_score_MetaData) };
 const UECodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ATPPOOGameMode_Statics::PropPointers[] = {
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_time,
+	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_bestTime,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_bTimerIsRunning,
 	(const UECodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ATPPOOGameMode_Statics::NewProp_score,
 };
@@ -163,10 +170,10 @@ ATPPOOGameMode::~ATPPOOGameMode() {}
 struct Z_CompiledInDeferFile_FID_Users_choui_OneDrive_Documents_GitHub_TPPOO_TPPOO_Source_TPPOO_TPPOOGameMode_h_Statics
 {
 	static constexpr FClassRegisterCompiledInInfo ClassInfo[] = {
-		{ Z_Construct_UClass_ATPPOOGameMode, ATPPOOGameMode::StaticClass, TEXT("ATPPOOGameMode"), &Z_Registration_Info_UClass_ATPPOOGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATPPOOGameMode), 1671690936U) },
+		{ Z_Construct_UClass_ATPPOOGameMode, ATPPOOGameMode::StaticClass, TEXT("ATPPOOGameMode"), &Z_Registration_Info_UClass_ATPPOOGameMode, CONSTRUCT_RELOAD_VERSION_INFO(FClassReloadVersionInfo, sizeof(ATPPOOGameMode), 4282742368U) },
 	};
 };
-static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_choui_OneDrive_Documents_GitHub_TPPOO_TPPOO_Source_TPPOO_TPPOOGameMode_h_2540636423(TEXT("/Script/TPPOO"),
+static FRegisterCompiledInInfo Z_CompiledInDeferFile_FID_Users_choui_OneDrive_Documents_GitHub_TPPOO_TPPOO_Source_TPPOO_TPPOOGameMode_h_1751971785(TEXT("/Script/TPPOO"),
 	Z_CompiledInDeferFile_FID_Users_choui_OneDrive_Documents_GitHub_TPPOO_TPPOO_Source_TPPOO_TPPOOGameMode_h_Statics::ClassInfo, UE_ARRAY_COUNT(Z_CompiledInDeferFile_FID_Users_choui_OneDrive_Documents_GitHub_TPPOO_TPPOO_Source_TPPOO_TPPOOGameMode_h_Statics::ClassInfo),
 	nullptr, 0,
 	nullptr, 0);

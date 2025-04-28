@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TPPOOModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2244dadca270aceb5b662e9d6dd1e6cf5d5c2560")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5f5eddd59431fa0654aeabe1ec0a6667bd418c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("TPPOOModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TPPOOModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

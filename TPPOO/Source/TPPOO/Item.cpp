@@ -14,6 +14,12 @@ AItem::AItem()
 	Mesh = CreateDefaultSubobject<UStaticMeshComponent>("Mesh");
 	RootComponent = Mesh;
 
+	// Set collision
+	Mesh->SetCollisionEnabled(ECollisionEnabled::QueryOnly);
+	Mesh->SetCollisionObjectType(ECC_WorldDynamic);
+	Mesh->SetCollisionResponseToAllChannels(ECR_Overlap);
+	Mesh->SetGenerateOverlapEvents(true);
+
 	Mesh->OnComponentBeginOverlap.AddDynamic(this, &AItem::OnOverlapBegin);
 }
 
@@ -25,7 +31,8 @@ void AItem::BeginPlay()
 
 void AItem::OnOverlapBegin(UPrimitiveComponent* OverlappedComponent, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult)
 {
-	// Verifier si cst le bon player
+	UE_LOG(LogTemp, Warning, TEXT("COLLISION"));
+
 	if (OtherActor)
 	{
 		ATPPOOCharacter* Character = Cast<ATPPOOCharacter>(OtherActor);

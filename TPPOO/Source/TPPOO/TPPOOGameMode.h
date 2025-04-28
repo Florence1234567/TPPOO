@@ -27,12 +27,10 @@ public:
 	void ResetScore();
 
 	UPROPERTY(VisibleAnywhere, Category = "Timer") float time;
-
+	UPROPERTY(VisibleAnywhere, Category = "Timer") float bestTime;
 	UPROPERTY(VisibleAnywhere, Category = "Timer") bool bTimerIsRunning;
 
 	UPROPERTY(VisibleAnywhere, Category = "Score") float score;
-
-	float bestTime;
 
 protected:
 

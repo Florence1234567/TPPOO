@@ -33,6 +33,18 @@
     <Filter Include="Source\TPPOO">
       <UniqueIdentifier>{9D2A8A14-1E0E-39B9-9A5F-D97970616DA8}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TPPOO\CannonBallComponent.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\CannonBallComponent.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\CannonComponent.cpp">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\TPPOO\CannonComponent.h">
+      <Filter>Source\TPPOO</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\TPPOO\Item.cpp">
       <Filter>Source\TPPOO</Filter>
     </ClCompile>

@@ -46,8 +46,9 @@ void ATPPOOGameMode::Tick(float DeltaTime)
 	{
 		GEngine->AddOnScreenDebugMessage(1, 1.f, FColor::White, FString::Printf(TEXT("Time : %f"), time));
 		GEngine->AddOnScreenDebugMessage(2, 1.f, FColor::White, FString::Printf(TEXT("Score : %f"), score));
-		GEngine->AddOnScreenDebugMessage(-1, 1.f, FColor::White, FString::Printf(TEXT("Best time : %f"), bestTime));
+		GEngine->AddOnScreenDebugMessage(3, 1.f, FColor::White, FString::Printf(TEXT("Best time : %f"), bestTime));
 	}
+
 	if (bTimerIsRunning)
 		time += DeltaTime;
 }
@@ -62,7 +63,7 @@ void ATPPOOGameMode::EndTimer()
 {
 	bTimerIsRunning = false;
 
-	if (time > bestTime)
+	if (bestTime == 0 || time < bestTime)
 		bestTime = time;
 }
 

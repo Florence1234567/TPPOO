@@ -50,6 +50,8 @@ public:
 	void CallRestartPlayer();
 
 	void IncreaseSpeed();
+
+	void ResetSpeed();
 protected:
 
 	/** Called for movement input */
@@ -57,9 +59,6 @@ protected:
 
 	/** Called for looking input */
 	void Look(const FInputActionValue& Value);
-			
-
-protected:
 
 	virtual void NotifyControllerChanged() override;
 
@@ -70,5 +69,7 @@ public:
 	FORCEINLINE class USpringArmComponent* GetCameraBoom() const { return CameraBoom; }
 	/** Returns FollowCamera subobject **/
 	FORCEINLINE class UCameraComponent* GetFollowCamera() const { return FollowCamera; }
+
+	FTimerHandle SpeedResetTimerHandle;
 };
 
