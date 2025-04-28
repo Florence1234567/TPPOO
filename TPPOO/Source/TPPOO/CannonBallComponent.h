@@ -15,9 +15,13 @@ public:
 	// Sets default values for this actor's properties
 	ACannonBallComponent();
 
+	UPROPERTY(VisibleAnywhere, Category = "Settings") UStaticMeshComponent* Mesh;
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
+
+	float speed = 1000.f;
 
 public:	
 	// Called every frame

@@ -33,10 +33,13 @@ void ACannonComponent::Tick(float DeltaTime)
 
 void ACannonComponent::FireCannonBall()
 {
-	FVector SpawnLocation = GetActorLocation() + FVector(100, 0, 0);
+	if (ProjectileClass)
+	{
+		FVector SpawnLocation = GetActorLocation() + FVector(0, 100, 0);
 
-	FRotator SpawnRotation = GetActorRotation();
+		FRotator SpawnRotation = GetActorRotation();
 
-	AActor* SpawnedProjectile = GetWorld()->SpawnActor<AActor>(ProjectileClass, SpawnLocation, SpawnRotation);
+		AActor* SpawnedProjectile = GetWorld()->SpawnActor<AActor>(ProjectileClass, SpawnLocation, SpawnRotation);
+	}
 }
 
